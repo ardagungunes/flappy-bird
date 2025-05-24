@@ -20,10 +20,7 @@ public class PipeMovement : MonoBehaviour
 
     }
 
-    void OnTriggerExit2D(Collider2D collision)
-    {
-        Destroy(gameObject);
-    }
+    
 
 
 }
