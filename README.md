@@ -64,7 +64,6 @@ This project focuses on:
 
 ## 🧩 Credits
 
-- Gameplay and code by @ardagungunes
 - Sprites used from [Flappy Bird Assets by @samuelcust](https://github.com/samuelcust/flappy-bird-assets)
 - Inspired by the original Flappy Bird by .GEARS Studios
 
