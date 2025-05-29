@@ -1,0 +1,4 @@
+# Ignore shader files from affecting the language breakdown
+*.shader linguist-detectable=false
+*.hlsl linguist-detectable=false
+*.cginc linguist-detectable=false
